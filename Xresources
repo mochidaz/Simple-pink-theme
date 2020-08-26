@@ -15,8 +15,8 @@
 *.color10:     #d3ffaf
 !
 ! Yellow
-*.color3:      #eedf4b
-*.color11:     #ffef50
+*.color3:      #999900
+*.color11:     #999900
 !
 ! Blue
 *.color4:      #FF1493
