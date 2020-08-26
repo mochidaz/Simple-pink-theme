@@ -1,0 +1,43 @@
+*.foreground:  #0b0b0b
+*.background:  #FFC0CB
+*.cursorColor: #bafc8b
+! Pink
+*.color0: #FFB6C1
+! Black
+*.color8:      #434343
+!
+! Red
+*.color1:      #a80f20
+*.color9:      #d91329
+!
+! Green
+*.color2:      #bafc8b
+*.color10:     #d3ffaf
+!
+! Yellow
+*.color3:      #eedf4b
+*.color11:     #ffef50
+!
+! Blue
+*.color4:      #FF1493
+*.color12:     #0075ea
+!
+! Magenta
+*.color5:      #ff36a2
+*.color13:     #fdd5e5
+!
+! Cyan
+*.color6:      #6bd1bc
+! Pink
+*.color14:     #FF1493
+!
+! White
+*.color7:      #e2d7e1
+*.color15:     #fff3fe
+!
+! Bold, Italic, Underline
+*.colorBD:     #000000
+!*.colorIT:
+*.colorUL:     #38a276
+
+*.font: xft: Inconsolata\ for\ Powerline:size=9
